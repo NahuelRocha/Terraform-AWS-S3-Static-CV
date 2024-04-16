@@ -1,6 +1,6 @@
 # Define variables for reusability and easy configuration
 variable "aws_region" {
-  default = "ca-central-1"
+  default = "sa-east-1"
 }
 
 variable "bucket_name" {
