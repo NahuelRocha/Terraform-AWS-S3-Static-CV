@@ -12,7 +12,3 @@ Host a static website on AWS S3 with Terraform as Infrastructure as Code.
 - AWS S3
 - CloudFront
 - Route53 (optional)
-
-## Author
-
-[Rishab Kumar](https://youtube.com/@rishabincloud)
