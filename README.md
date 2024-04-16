@@ -1,4 +1,4 @@
-# Terraform AWS S3 Static Site
+# Terraform AWS S3 Static CV
 
 Host a static website on AWS S3 with Terraform as Infrastructure as Code.
 
@@ -12,11 +12,6 @@ Host a static website on AWS S3 with Terraform as Infrastructure as Code.
 - AWS S3
 - CloudFront
 - Route53 (optional)
-
-## More resources
-
-- [Static Site on Azure with Terraform](https://github.com/rishabkumar7/terraform-azure-static-site)
-- [Static Site on GCP with Terraform](https://github.com/rishabkumar7/freecodecamp-terraform-with-gcp)
 
 ## Author
 
