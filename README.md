@@ -11,6 +11,5 @@ Host a static website on AWS S3 with Terraform as Infrastructure as Code.
 - Terraform for IaC
 - AWS S3
 - CloudFront
-- Route53 (optional)
 - HTML
 - CSS
