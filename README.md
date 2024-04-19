@@ -14,4 +14,7 @@ Host a static website on AWS S3 with Terraform as Infrastructure as Code.
 - HTML
 - CSS
 
+## CV Preview
 ![CV Preview](images/Mycv-1.png)
+
+URL: 
