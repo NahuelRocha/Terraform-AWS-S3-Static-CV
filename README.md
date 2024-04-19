@@ -17,4 +17,4 @@ Host a static website on AWS S3 with Terraform as Infrastructure as Code.
 ## CV Preview
 ![CV Preview](images/Mycv-1.png)
 
-URL: 
+URL: https://d2n3ey7nxrl6jt.cloudfront.net/
